@@ -27,3 +27,4 @@ for i in range(0, len(mas), 2):
         sum -= mas[i + 1]
 
 print(sum)
+
